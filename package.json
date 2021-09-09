@@ -19,5 +19,7 @@
         "webpack-cli": "^4.8.0",
         "webpack-dev-server": "^4.1.1"
     },
-    "dependencies": {}
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
