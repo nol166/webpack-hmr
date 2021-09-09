@@ -17,7 +17,8 @@
         "style-loader": "^3.2.1",
         "webpack": "^5.52.0",
         "webpack-cli": "^4.8.0",
-        "webpack-dev-server": "^4.1.1"
+        "webpack-dev-server": "^4.1.1",
+        "workbox-webpack-plugin": "^6.2.4"
     },
     "dependencies": {
         "express": "^4.17.1"
