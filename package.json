@@ -7,8 +7,9 @@
     "license": "MIT",
     "scripts": {
         "dev": "webpack-dev-server --open",
-        "build": "webpack",
-        "postinstall": "webpack"
+        "build": "webpack --mode production",
+        "postinstall": "webpack",
+        "start": "node server.js"
     },
     "devDependencies": {
         "css-loader": "^6.2.0",
